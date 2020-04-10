@@ -1,5 +1,3 @@
-require 'pry'
-
 def using_push(array, string)
   colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
   string = "violet"
@@ -15,5 +13,4 @@ end
 def using_pop(array)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   continents.pop
-  binding.pry
 end
