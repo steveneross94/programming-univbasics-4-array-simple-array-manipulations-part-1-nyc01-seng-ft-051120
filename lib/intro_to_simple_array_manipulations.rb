@@ -15,4 +15,4 @@ def using_pop(array)
   deleted_string = "Antarctica"
   continents.pop
   continents - deleted_string
-
+end
