@@ -11,5 +11,5 @@ def using_unshift(array, string)
 end
 
 def using_pop(array)
-  WHAT_HERE.pop
+  array.pop
 end
